@@ -39,3 +39,13 @@ Do **NOT** use this on:
 
 ```bash
 wget https://github.com/yourusername/add-kali-repos/raw/main/add-kali-repos.sh
+
+2. Make the executable:
+
+```bash
+chmod +x add-kali-repos.sh
+
+3. Run the script with root privileges:
+
+```bash
+sudo ./add-kali-repos.sh
