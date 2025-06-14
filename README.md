@@ -69,15 +69,16 @@ sudo apt update
 
 ## 🛠️ What This Script Does
 
-Adds Kali Linux repository entries to /etc/apt/sources.list.d/kali.list
+- Adds Kali Linux repository entries to /etc/apt/sources.list.d/kali.list
 
-Imports Kali's official GPG key
+- Imports Kali's official GPG key
 
-Safely backs up your existing APT sources before making changes
+- Safely backs up your existing APT sources before making changes
 
 ---
 
 👩‍💻 Author
 
 @thephantomrj
+
 Made with ☕ and 🐧 for hackers and learners.
