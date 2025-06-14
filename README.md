@@ -38,16 +38,16 @@ Do **NOT** use this on:
 1. Download the script:
 
 ```bash
-wget https://github.com/yourusername/add-kali-repos/raw/main/add-kali-repos.sh
+wget https://github.com/yourusername/add-kali-repos/raw/main/add-kali-repo.sh
 
 ```
 2. Make the executable:
 
 ```bash
-chmod +x add-kali-repos.sh
+chmod +x add-kali-repo.sh
 
 ```
 3. Run the script with root privileges:
 
 ```bash
-sudo ./add-kali-repos.sh
+sudo ./add-kali-repo.sh
