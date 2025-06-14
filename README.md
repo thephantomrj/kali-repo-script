@@ -35,19 +35,31 @@ Do **NOT** use this on:
 
 ## 📥 How to Use
 
-1. Download the script:
+1. Clone the script:
 
 ```bash
-wget https://github.com/yourusername/add-kali-repos/raw/main/add-kali-repo.sh
+git clone https://github.com/thephantomrj/kali-repo-script
 
 ```
-2. Make the executable:
+2. CD to the folder:
+
+```bash
+cd  kali-repo-script
+
+```
+3. Make the script executable:
 
 ```bash
 chmod +x add-kali-repo.sh
 
 ```
-3. Run the script with root privileges:
+4. Run the script with root privileges:
 
 ```bash
 sudo ./add-kali-repo.sh
+
+```
+5. Update the system:
+
+```bash
+sudo apt update
